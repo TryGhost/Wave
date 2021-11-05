@@ -49,6 +49,26 @@
                     "Elegant serif"
                 ],
                 "default": "Modern sans-serif"
+            },
+            "apple_podcasts_link": {
+                "type": "text",
+                "default": "https://podcasts.apple.com/"
+            },
+            "google_podcasts_link": {
+                "type": "text",
+                "default": "https://podcasts.google.com/"
+            },
+            "spotify_link": {
+                "type": "text",
+                "default": "https://open.spotify.com/"
+            },
+            "overcast_link": {
+                "type": "text",
+                "default": "https://overcast.fm/"
+            },
+            "stitcher_link": {
+                "type": "text",
+                "default": "https://www.stitcher.com/"
             }
         }
     },
